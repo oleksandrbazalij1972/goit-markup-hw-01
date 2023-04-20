@@ -1,0 +1,9 @@
+# _config.yml
+
+theme: jekyll-theme-cayman
+
+# This is the base URL of your website. Replace "your-github-username" with your GitHub username.
+baseurl: /oleksandrbazalij1972.github.io/
+
+# This specifies the URL of your live site. Replace "your-github-username" with your GitHub username.
+url: https://oleksandrbazalij1972.github.io/
